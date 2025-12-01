@@ -12,7 +12,7 @@ The goal of this project is to de-mystify the "black box" of neural networks by 
 ---
 
 ## The implemented Network
-![Neural Network Diagram](network.png)
+![Neural Network Diagram](images/network.png)
 
 ## Learning Goals (Manual Implementation)
 - Derivatives & Gradients: calculate partial derivatives of the loss with respect to weights and biases (∂L/∂w, ∂L/∂b).

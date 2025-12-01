@@ -41,7 +41,7 @@ def evaluate(model,train,target_train,test,target_test):
 
 if __name__ == '__main__':
     
-    path = '/Users/youssofhossam/Desktop/Youssof/Data Science/ML Mostafa Saad/Neural network/Homework/7 Homework 2 - Backpropagation/data2_200x30.csv'
+    path = 'data2_200x30.csv'
 
     parser = argparse.ArgumentParser(description='Training a simple Neural Network using SKlearn.')
     parser.add_argument('--dataset', type=str,default=path)
